@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi there, I'm Dhiru Yadav
 
-<!--
-**Dhi390/Dhi390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pronouns:** he/him  
+* I’m currently working on:** Full-stack GoLang + MySQL API development  
+* I’m currently learning:** Advanced Backend, GitHub, Postman, and Deployment  
+* Ask me about:** GoLang, APIs, MySQL, Postman, and full-stack integration  
+**📫 How to reach me:**  
+- 📧 Email: dhiru.yadav@example.com  <!-- replace with real email -->
+- 💼 LinkedIn: [linkedin.com/in/dhiru-yadav](https://linkedin.com) <!-- optional -->
+- 💻 GitHub Projects: [github.com/Dhi390](https://github.com/Dhi390)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+       <------------------------------------------------------------------>
